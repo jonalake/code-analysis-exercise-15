@@ -19,14 +19,14 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   Jon, Kira    |    Kira    | 
+|   Cindi, Ronon    |   Ronon     | 
+|   Cindi, Sasha    |    Sasha    | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>Searches for a dog's name though a list of dog's names assigned to a person</td>
   </tr>
 </table>
 
