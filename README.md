@@ -19,9 +19,9 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|   Jon, Kira    |    Kira    | 
-|   Cindi, Ronon    |   Ronon     | 
-|   Cindi, Sasha    |    Sasha    | 
+|   `Angela = {name: "Angela" , dogs: ["Skye' , "Olaf", "Timmy", "Lego"]}, "Olaf"`    |    "Olaf"    | 
+|   `Cindi = {name: "Cindi", dogs : ["Ronon" , "Sasha"]}, "Ronon"`  |   "Ronon"     | 
+|   `Cindi = {name: "Cindi", dogs : ["Ronon" , "Sasha"]}, "Sasha"`    |    "Sasha"    | 
 
 <table>
   <tr>
