@@ -19,9 +19,9 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|   `Angela = {name: "Angela", dogs: [{name: "Skye", breed: "Alaskan Malamute"}, {name: "Olaf", breed: "Siberian Husky"}, {name: "Timmy", breed: "Maltese"}, {name: "Lego", breed: "Maltese"}],}, "Olaf"`    |    {name: "Olaf" breed: "Siberian Husky"}    | 
-|   `Angela = {name: "Angela", dogs: [{name: "Skye", breed: "Alaskan Malamute"}, {name: "Olaf", breed: "Siberian Husky"}, {name: "Timmy", breed: "Maltese"}, {name: "Lego", breed: "Maltese"}],}, "Skye"`   |   {name: "Skye", breed: "Alaskan Malamute"}    | 
-|   `Cindi = {name: "Cindi", dogs: [{name: "Ronon", breed: "American Eskimo"}, {name: "Sasha", breed: "Australian Cattle Dog"},],}, "Ronon"`    |    {name: "Ronon", breed: "American Eskimo"}    | 
+|   `{name: "Angela", dogs: [{name: "Skye", breed: "Alaskan Malamute"}, {name: "Olaf", breed: "Siberian Husky"}, {name: "Timmy", breed: "Maltese"}, {name: "Lego", breed: "Maltese"}],}, "Olaf"`    |    {name: "Olaf" breed: "Siberian Husky"}    | 
+|   `{name: "Angela", dogs: [{name: "Skye", breed: "Alaskan Malamute"}, {name: "Olaf", breed: "Siberian Husky"}, {name: "Timmy", breed: "Maltese"}, {name: "Lego", breed: "Maltese"}],}, "Skye"`   |   {name: "Skye", breed: "Alaskan Malamute"}    | 
+|   `{name: "Cindi", dogs: [{name: "Ronon", breed: "American Eskimo"}, {name: "Sasha", breed: "Australian Cattle Dog"},],}, "Ronon"`    |    {name: "Ronon", breed: "American Eskimo"}    | 
 
 <table>
   <tr>
